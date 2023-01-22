@@ -25,8 +25,10 @@ class Kernel extends ConsoleKernel
      */
     protected function commands()
     {
-        $this->load(__DIR__.'/Commands');
-
+        $this->load(__DIR__ . '/Commands');
+        if ($this->app->environment('local')) {
+            (new \League\CLImate\CLImate())->addArt(base_path())->lightGreen()->draw('aamroni');
+        }
         require base_path('routes/console.php');
     }
 }

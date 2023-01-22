@@ -1,0 +1,527 @@
+@font-face {
+    font-family: 'InterThin';
+    src: url('./../fonts/Inter-Thin.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  @font-face {
+    font-family: 'InterExtraLight';
+    src: url('./../fonts/Inter-ExtraLight.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+  }
+  
+  @font-face {
+    font-family: 'InterLight';
+    src: url('./../fonts/Inter-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: 'InterRegular';
+    src: url('./../fonts/Inter-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: 'InterMedium';
+    src: url('./../fonts/Inter-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: 'InterSemiBold';
+    src: url('./../fonts/Inter-SemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  @font-face {
+    font-family: 'InterBold';
+    src: url('./../fonts/Inter-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: 'InterExtraBold';
+    src: url('./../fonts/Inter-ExtraBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  @font-face {
+    font-family: 'InterBlack';
+    src: url('./../fonts/Inter-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 900;
+  }
+  
+  @font-face {
+    font-family: 'RobotoThin';
+    src: url('./../fonts/Roboto-Thin.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  @font-face {
+    font-family: 'RobotoLight';
+    src: url('./../fonts/Roboto-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: 'RobotoRegular';
+    src: url('./../fonts/Roboto-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: 'RobotoMedium';
+    src: url('./../fonts/Roboto-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: 'RobotoBold';
+    src: url('./../fonts/Roboto-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: 'RobotoBlack';
+    src: url('./../fonts/Roboto-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 900;
+  }
+  
+  body {
+    font-family: 'Roboto', 'Inter', sans-serif;
+    font-weight: 400;
+  }
+  
+  .font-roboto-100 {
+    font-family: RobotoThin, sans-serif;
+    src: url('./../fonts/Roboto-Thin.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  .font-roboto-300 {
+    font-family: RobotoLight, sans-serif;
+    src: url('./../fonts/Roboto-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .font-roboto-400 {
+    font-family: RobotoRegular, sans-serif;
+    src: url('./../fonts/Roboto-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .font-roboto-500 {
+    font-family: RobotoMedium, sans-serif;
+    src: url('./../fonts/Roboto-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .font-roboto-700 {
+    font-family: RobotoBold, sans-serif;
+    src: url('./../fonts/Roboto-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .font-roboto-900 {
+    font-family: RobotoBlack, sans-serif;
+    src: url('./../fonts/Roboto-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  .font-roboto-thin {
+    font-family: RobotoThin, sans-serif;
+    src: url('./../fonts/Roboto-Thin.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  .font-inter-100 {
+    font-family: 'InterThin';
+    src: url('./../fonts/Inter-Thin.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100;
+  }
+  
+  .font-inter-200 {
+    font-family: 'InterExtraLight';
+    src: url('./../fonts/Inter-ExtraLight.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+  }
+  
+  .font-inter-300 {
+    font-family: 'InterLight';
+    src: url('./../fonts/Inter-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  .font-inter-400 {
+    font-family: 'InterRegular';
+    src: url('./../fonts/Inter-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .font-inter-500 {
+    font-family: 'InterMedium';
+    src: url('./../fonts/Inter-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .font-inter-600 {
+    font-family: 'InterSemiBold';
+    src: url('./../fonts/Inter-SemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .font-inter-700 {
+    font-family: 'InterBold';
+    src: url('./../fonts/Inter-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .font-inter-800 {
+    font-family: 'InterExtraBold';
+    src: url('./../fonts/Inter-ExtraBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .font-inter-900 {
+    font-family: 'InterBlack';
+    src: url('./../fonts/Inter-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 900;
+  }
+  
+  .fw-100 {
+    font-weight: 100 !important;
+  }
+  
+  .fw-200 {
+    font-weight: 200 !important;
+  }
+  
+  .fw-300 {
+    font-weight: 300 !important;
+  }
+  
+  .fw-400 {
+    font-weight: 400 !important;
+  }
+  
+  .fw-500 {
+    font-weight: 500 !important;
+  }
+  
+  .fw-600 {
+    font-weight: 600 !important;
+  }
+  
+  .fw-700 {
+    font-weight: 700 !important;
+  }
+  
+  .fw-800 {
+    font-weight: 800 !important;
+  }
+  
+  .fw-900 {
+    font-weight: 900 !important;
+  }
+  
+  .text-10 {
+    font-size: 10 !important;
+  }
+  
+  .text-11 {
+    font-size: 11 !important;
+  }
+  
+  .text-12 {
+    font-size: 12 !important;
+  }
+  
+  .text-13 {
+    font-size: 13 !important;
+  }
+  
+  .text-14 {
+    font-size: 14 !important;
+  }
+  
+  .text-15 {
+    font-size: 15 !important;
+  }
+  
+  .text-16 {
+    font-size: 16 !important;
+  }
+  
+  .text-17 {
+    font-size: 17 !important;
+  }
+  
+  .text-18 {
+    font-size: 18 !important;
+  }
+  
+  .text-19 {
+    font-size: 19 !important;
+  }
+  
+  .text-20 {
+    font-size: 20 !important;
+  }
+  
+  .text-21 {
+    font-size: 21 !important;
+  }
+  
+  .text-22 {
+    font-size: 22 !important;
+  }
+  
+  .text-23 {
+    font-size: 23 !important;
+  }
+  
+  .text-24 {
+    font-size: 24 !important;
+  }
+  
+  .text-25 {
+    font-size: 25 !important;
+  }
+  
+  .text-26 {
+    font-size: 26 !important;
+  }
+  
+  .text-27 {
+    font-size: 27 !important;
+  }
+  
+  .text-28 {
+    font-size: 28 !important;
+  }
+  
+  .text-29 {
+    font-size: 29 !important;
+  }
+  
+  .text-30 {
+    font-size: 30 !important;
+  }
+  
+  .text-31 {
+    font-size: 31 !important;
+  }
+  
+  .text-32 {
+    font-size: 32 !important;
+  }
+  
+  .text-33 {
+    font-size: 33 !important;
+  }
+  
+  .text-34 {
+    font-size: 34 !important;
+  }
+  
+  .text-35 {
+    font-size: 35 !important;
+  }
+  
+  .text-36 {
+    font-size: 36 !important;
+  }
+  
+  .text-37 {
+    font-size: 37 !important;
+  }
+  
+  .text-38 {
+    font-size: 38 !important;
+  }
+  
+  .text-39 {
+    font-size: 39 !important;
+  }
+  
+  .text-40 {
+    font-size: 40 !important;
+  }
+  
+  
+  .row {
+    clear: both;
+    display: flex !important;
+    width: 100%;
+  }
+  
+  .col {
+    float: left !important;
+    width: auto;
+  }
+  
+  .w-10-percent {
+    width: 10%;
+  }
+  
+  .w-20-percent {
+    width: 20%;
+  }
+  
+  .w-30-percent {
+    width: 30%;
+  }
+  
+  .w-40-percent {
+    width: 40%;
+  }
+  
+  .w-50-percent {
+    width: 50%;
+  }
+  
+  .w-60-percent {
+    width: 60%;
+  }
+  
+  .w-70-percent {
+    width: 70%;
+  }
+  
+  .w-80-percent {
+    width: 80%;
+  }
+  
+  .w-90-percent {
+    width: 90%;
+  }
+  
+  .w-100-percent {
+    width: 100%;
+  }
+  
+  .w-10 {
+    width: 10px;
+  }
+  
+  .w-20 {
+    width: 20px;
+  }
+  
+  .w-30 {
+    width: 30px;
+  }
+  
+  .w-40 {
+    width: 40px;
+  }
+  
+  .w-50 {
+    width: 50px;
+  }
+  
+  .w-60 {
+    width: 60px;
+  }
+  
+  .w-70 {
+    width: 70px;
+  }
+  
+  .w-80 {
+    width: 80px;
+  }
+  
+  .w-90 {
+    width: 90px;
+  }
+  
+  .h-10 {
+    height: 10px;
+  }
+  
+  .h-20 {
+    height: 20px;
+  }
+  
+  .h-30 {
+    height: 30px;
+  }
+  
+  .h-40 {
+    height: 40px;
+  }
+  
+  .h-50 {
+    height: 50px;
+  }
+  
+  .h-60 {
+    height: 60px;
+  }
+  
+  .h-70 {
+    height: 70px;
+  }
+  
+  .h-80 {
+    height: 80px;
+  }
+  
+  .h-90 {
+    height: 90px;
+  }
+  
+  thead th,
+  tfoot th {
+    font-family: InterMedium, sans-serif;
+    font-weight: 500;
+  }
+  
+  th {
+    letter-spacing: 1px;
+  }
+  
+  td {
+    letter-spacing: 0px;
+  }
+  
+  tbody td {
+    text-align: left;
+  }
+  
+  tfoot th {
+    text-align: right;
+  }

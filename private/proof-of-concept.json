@@ -1,0 +1,302 @@
+[
+    {
+        "type": "Personal Care",
+        "code": "118",
+        "name": "Managing Medications"
+    },
+    {
+        "type": "Personal Care",
+        "code": "116",
+        "name": "Housework/Chore"
+    },
+    {
+        "type": "Personal Care",
+        "code": "117",
+        "name": "Managing Finances"
+    },
+    {
+        "type": "Personal Care",
+        "code": "119",
+        "name": "Shopping"
+    },
+    {
+        "type": "Personal Care",
+        "code": "122",
+        "name": "Hygiene"
+    },
+    {
+        "type": "Personal Care",
+        "code": "123",
+        "name": "Dressing Upper"
+    },
+    {
+        "type": "Personal Care",
+        "code": "124",
+        "name": "Dressing Lower"
+    },
+    {
+        "type": "Personal Care",
+        "code": "125",
+        "name": "Locomotion"
+    },
+    {
+        "type": "Personal Care",
+        "code": "126",
+        "name": "Transfer"
+    },
+    {
+        "type": "Personal Care",
+        "code": "127",
+        "name": "Toilet Use"
+    },
+    {
+        "type": "Personal Care",
+        "code": "128",
+        "name": "Bed Mobility"
+    },
+    {
+        "type": "Personal Care",
+        "code": "129",
+        "name": "Eating"
+    },
+    {
+        "type": "Personal Care",
+        "code": "130",
+        "name": "Bladder Incontinence"
+    },
+    {
+        "type": "Personal Care",
+        "code": "131",
+        "name": "Bowel Incontinence"
+    },
+    {
+        "type": "Personal Care",
+        "code": "132",
+        "name": "Personal Care T1019"
+    },
+    {
+        "type": "Personal Care",
+        "code": "135",
+        "name": "Bathing"
+    },
+    {
+        "type": "Personal Care",
+        "code": "139",
+        "name": "Reading/Writing"
+    },
+    {
+        "type": "Personal Care",
+        "code": "141",
+        "name": "Incontinence Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "142",
+        "name": "Catheter Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "143",
+        "name": "Wound Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "144",
+        "name": "G-Tube Feeding"
+    },
+    {
+        "type": "PatientSupportActivities",
+        "code": "201",
+        "name": "In Person"
+    },
+    {
+        "type": "PatientSupportActivities",
+        "code": "202",
+        "name": "Via Telephone"
+    },
+    {
+        "type": "Personal Care",
+        "code": "204",
+        "name": "Bath-Tub"
+    },
+    {
+        "type": "Personal Care",
+        "code": "205",
+        "name": "Bath-Shower"
+    },
+    {
+        "type": "Personal Care",
+        "code": "206",
+        "name": "Bath-Bed"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "207",
+        "name": "Patient Requires Total Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "208",
+        "name": "Mouth Care/Denture Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "209",
+        "name": "Hair Care-Comb"
+    },
+    {
+        "type": "Personal Care",
+        "code": "210",
+        "name": "Hair Care-Shampoo"
+    },
+    {
+        "type": "Personal Care",
+        "code": "211",
+        "name": "Grooming-Shave"
+    },
+    {
+        "type": "Personal Care",
+        "code": "212",
+        "name": "Grooming-Nails"
+    },
+    {
+        "type": "Personal Care",
+        "code": "214",
+        "name": "Skin Care"
+    },
+    {
+        "type": "Personal Care",
+        "code": "215",
+        "name": "Foot Care"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "216",
+        "name": "Toileting-Diaper"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "218",
+        "name": "Toileting-Bedpan/Urinal"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "219",
+        "name": "Toileting-Toilet"
+    },
+    {
+        "type": "Nutrition",
+        "code": "220",
+        "name": "Patient is on a prescribed diet"
+    },
+    {
+        "type": "Nutrition",
+        "code": "221",
+        "name": "Prepare-Breakfast"
+    },
+    {
+        "type": "Nutrition",
+        "code": "222",
+        "name": "Prepare-Lunch"
+    },
+    {
+        "type": "Nutrition",
+        "code": "223",
+        "name": "Prepare-Dinner"
+    },
+    {
+        "type": "Nutrition",
+        "code": "224",
+        "name": "Prepare Snack"
+    },
+    {
+        "type": "Nutrition",
+        "code": "225",
+        "name": "Assist with feeding"
+    },
+    {
+        "type": "General Duties",
+        "code": "226",
+        "name": "Record intake - Food"
+    },
+    {
+        "type": "General Duties",
+        "code": "227",
+        "name": "Record intake - Fluid"
+    },
+    {
+        "type": "General Duties",
+        "code": "228",
+        "name": "Transferring"
+    },
+    {
+        "type": "Activity",
+        "code": "231",
+        "name": "Assist with home exercise program"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "233",
+        "name": "Turning and positioning (At least Q2)"
+    },
+    {
+        "type": "General Duties",
+        "code": "234",
+        "name": "Take Temperature"
+    },
+    {
+        "type": "General Duties",
+        "code": "235",
+        "name": "Take Pulse"
+    },
+    {
+        "type": "General Duties",
+        "code": "236",
+        "name": "Take Blood Pressure"
+    },
+    {
+        "type": "General Duties",
+        "code": "237",
+        "name": "Weigh Patient"
+    },
+    {
+        "type": "General Duties",
+        "code": "238",
+        "name": "Take respirations"
+    },
+    {
+        "type": "General Duties",
+        "code": "239",
+        "name": "Record Output (Urine/BM)"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "240",
+        "name": "Assist with catheter care"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "241",
+        "name": "Empty foley bag"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "242",
+        "name": "Assist with ostomy care"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "244",
+        "name": "Assist with Treatment"
+    },
+    {
+        "type": "HomeManagement",
+        "code": "245",
+        "name": "Change bed linen"
+    },
+    {
+        "type": "Treatment /Special Needs",
+        "code": "248",
+        "name": "Clean Patient CareEquipment"
+    }
+]

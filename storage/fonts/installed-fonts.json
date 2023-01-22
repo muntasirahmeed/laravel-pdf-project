@@ -1,0 +1,47 @@
+{
+    "interthin": {
+        "100": "interthin_100_f9d0ec2efd1f6836ea09477affb70560"
+    },
+    "interextralight": {
+        "200": "interextralight_200_d2336768063298eb9f942112d87bb27c"
+    },
+    "interlight": {
+        "300": "interlight_300_c617835a18d794dcce398e132dbda30d"
+    },
+    "interregular": {
+        "normal": "interregular_normal_f4c4c3414ab934b0d8c5e8547441e781"
+    },
+    "intermedium": {
+        "500": "intermedium_500_de961de7ee2dea398c5e2e3ae9472cb2"
+    },
+    "intersemibold": {
+        "600": "intersemibold_600_11036e507acc0b1418b10a30ca482d54"
+    },
+    "interbold": {
+        "bold": "interbold_bold_a9907a51779abcf7b769ba34a0548e4f"
+    },
+    "interextrabold": {
+        "800": "interextrabold_800_dc3f435b359550114074c568aba564bc"
+    },
+    "interblack": {
+        "900": "interblack_900_eb94e7cfa4f0ccb9b42771e224def376"
+    },
+    "robotothin": {
+        "100": "robotothin_100_9d27e9ca0c607dbaed2f2fe49731b962"
+    },
+    "robotolight": {
+        "300": "robotolight_300_9902310f16be508e0f2b911483679255"
+    },
+    "robotoregular": {
+        "normal": "robotoregular_normal_39ad1649ce670c394f5f5986101011a3"
+    },
+    "robotomedium": {
+        "500": "robotomedium_500_2a984d67337d821e9c5181736067c4e6"
+    },
+    "robotobold": {
+        "bold": "robotobold_bold_c8c6506a454f9ce8ffd7700d52de7d42"
+    },
+    "robotoblack": {
+        "900": "robotoblack_900_2b90540aea071c2a36b0e58198e74276"
+    }
+}

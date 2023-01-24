@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use Barryvdh\DomPDF\Facade\Pdf as PDF;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Config;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,5 +21,6 @@ Route::get('/', function () {
 });
 
 Route::get('design/{preview}', function (Request $request) {
-    return PDF::loadView($request->preview)->setPaper('a4')->stream('preview-design');
+    // return view($request->preview);
+    return PDF::loadView($request->preview)->setPaper('a4')->stream('preview-design.pdf');
 });

@@ -269,26 +269,7 @@
         "code": "239",
         "name": "Record Output (Urine/BM)"
     },
-    {
-        "type": "Treatment /Special Needs",
-        "code": "240",
-        "name": "Assist with catheter care"
-    },
-    {
-        "type": "Treatment /Special Needs",
-        "code": "241",
-        "name": "Empty foley bag"
-    },
-    {
-        "type": "Treatment /Special Needs",
-        "code": "242",
-        "name": "Assist with ostomy care"
-    },
-    {
-        "type": "Treatment /Special Needs",
-        "code": "244",
-        "name": "Assist with Treatment"
-    },
+
     {
         "type": "HomeManagement",
         "code": "245",

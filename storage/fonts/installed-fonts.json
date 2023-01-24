@@ -1,47 +1,47 @@
 {
     "interthin": {
-        "100": "interthin_100_f9d0ec2efd1f6836ea09477affb70560"
+        "100": "interthin_100_5d3cad50996088066eee6a125ebc691a"
     },
     "interextralight": {
-        "200": "interextralight_200_d2336768063298eb9f942112d87bb27c"
+        "200": "interextralight_200_17ddc64d533af07ec96ac780f3e4ff82"
     },
     "interlight": {
-        "300": "interlight_300_c617835a18d794dcce398e132dbda30d"
+        "300": "interlight_300_9af573c3920a386dbf4fc95d3ecf9d84"
     },
     "interregular": {
-        "normal": "interregular_normal_f4c4c3414ab934b0d8c5e8547441e781"
+        "normal": "interregular_normal_59edbeeeaacab7b8321576db7b761246"
     },
     "intermedium": {
-        "500": "intermedium_500_de961de7ee2dea398c5e2e3ae9472cb2"
+        "500": "intermedium_500_f96269a005c43aec3920259e0f5508db"
     },
     "intersemibold": {
-        "600": "intersemibold_600_11036e507acc0b1418b10a30ca482d54"
+        "600": "intersemibold_600_bd92e0123cbed9796057442bc74b3043"
     },
     "interbold": {
-        "bold": "interbold_bold_a9907a51779abcf7b769ba34a0548e4f"
+        "bold": "interbold_bold_9a7561ded6a7258a9a9a0d3ffbbee71f"
     },
     "interextrabold": {
-        "800": "interextrabold_800_dc3f435b359550114074c568aba564bc"
+        "800": "interextrabold_800_0027c8e4deda465d0f3919eecf1c5419"
     },
     "interblack": {
-        "900": "interblack_900_eb94e7cfa4f0ccb9b42771e224def376"
+        "900": "interblack_900_fbf9bede1bb8e10f6612ba6791045fcc"
     },
     "robotothin": {
-        "100": "robotothin_100_9d27e9ca0c607dbaed2f2fe49731b962"
+        "100": "robotothin_100_87217940e3532b4787f4b4947106e66f"
     },
     "robotolight": {
-        "300": "robotolight_300_9902310f16be508e0f2b911483679255"
+        "300": "robotolight_300_e6fca0d0b69723fe721ee005b516f782"
     },
     "robotoregular": {
-        "normal": "robotoregular_normal_39ad1649ce670c394f5f5986101011a3"
+        "normal": "robotoregular_normal_4f7bddc83c47652adbd76dadd2a10d0d"
     },
     "robotomedium": {
-        "500": "robotomedium_500_2a984d67337d821e9c5181736067c4e6"
+        "500": "robotomedium_500_f2a9aa3d7f18929ec3c1287b257b20aa"
     },
     "robotobold": {
-        "bold": "robotobold_bold_c8c6506a454f9ce8ffd7700d52de7d42"
+        "bold": "robotobold_bold_3eb51822e9dbfa513bddcfb5f1fcfa35"
     },
     "robotoblack": {
-        "900": "robotoblack_900_2b90540aea071c2a36b0e58198e74276"
+        "900": "robotoblack_900_a6c803ef251e5e5f896d4d964040f09a"
     }
 }
